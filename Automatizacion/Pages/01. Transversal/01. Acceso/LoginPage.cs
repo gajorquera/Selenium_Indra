@@ -6,7 +6,7 @@ using SeleniumExtras.PageObjects;
 using System;
 using System.Collections.Generic;
 
-//Capa Validacion LoginPage
+//Capa Validacion 
 namespace Automatizacion.Pages._01._Transversal._01._Acceso
 {
 
