@@ -12,7 +12,7 @@ namespace Automatizacion.Pages._01._Transversal._01._Acceso
 
     public class LoginPage
     {
-        //BasePage objeto
+        //BasePage objeto clase.
         public static BasePage basePage;
         //Constructor Basepage
         public LoginPage()
